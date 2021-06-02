@@ -2,9 +2,10 @@
 title: Redirection to for docs.jabref.org
 ---
 
-# JabRef Web-based Help
+# Redirections to new docs site
 
-In November, 2019 the development team decided to offer the help only in English.
-Please see <https://docs.jabref.org/> for the recent documentation and [how to contribute](https://docs.jabref.org/contributing).
+We decided to host our help pages using <https://gitbook.com/>.
 
-Please change to the `master` branch for the current state of documentation at `docs.jabref.org`. 
+The new GitHub-hosted source repository is located at <https://github.com/JabRef/user-documentation>.
+
+This repository is used to offer redirection links for old JabRef installations.
